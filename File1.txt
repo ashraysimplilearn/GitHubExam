@@ -12,3 +12,7 @@
 #Making Commit_3 on Feature1
 #Making Commit_4 on Feature1
 
+
+
+#Making Critical Commit on Hotfix
+
